@@ -94,6 +94,3 @@ All three sets must share the same array size.
 * Type on the On Screen Keyboard. The active **StringOutput[i]** updates in real time.
 * Change the selection to another destination. The component clears the keyboard text and the previously active output, then routes new input to the newly selected output.
 * After a Core reboot, all names are restored from **StringOutputFB[i]**.
-
-
-handle_selection_change()
